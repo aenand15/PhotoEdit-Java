@@ -1,1 +1,2 @@
 # PhotoEdit-Java
+This program can edit an image by blurring it, changing the brightness, or by saturating the color. It can also tell you the exact pixel that a user clicked on the image. The program is designed using the swing framework for a java GUI. To open the photo editor application run the program from the ImageAdjuster.java class, to open the screen that gives the precise pixel a user clicked on run the program from the SetupTest.java class. 
